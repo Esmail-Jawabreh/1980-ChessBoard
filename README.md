@@ -34,7 +34,7 @@
 ### Configuration & Submission
 #### Kaggle is an excellent all around resource and has good, free notebook hosting.
 
-#### [Kaggle Link for the Lab](https://www.kaggle.com/code/esmailjawabreh/notebook8461a28d23)
+#### [Kaggle Link for the Lab](https://www.kaggle.com/code/esmailjawabreh/chess-board)
 
 <br>
 
